@@ -33,3 +33,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# cubism sdk
+/public/Resources
+/public/live2d.min.js
+/public/live2dcubismcore.min.js
